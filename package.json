@@ -1,0 +1,24 @@
+{
+  "name": "nodepnpm",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ManuelDuran95/nodehello3.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/ManuelDuran95/nodehello3/issues"
+  },
+  "homepage": "https://github.com/ManuelDuran95/nodehello3#readme",
+  "dependencies": {
+    "firebase-functions": "^6.4.0"
+  }
+}
